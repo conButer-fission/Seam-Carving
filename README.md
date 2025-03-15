@@ -1,1 +1,1 @@
-`python main.py [file].[ext] new_width new_height`
+`python main.py [image].[ext] new_width new_height`
